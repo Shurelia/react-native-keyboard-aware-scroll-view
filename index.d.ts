@@ -4,7 +4,7 @@
 // TypeScript Version: 2.3.2
 
 import * as React from 'react'
-import { ScrollViewProperties, ListViewProperties, FlatListProperties, SectionListProperties } from 'react-native'
+import { ScrollViewProps, ListViewProps, FlatListProps, SectionListProps } from 'react-native'
 
 interface KeyboardAwareProps {
   /**
